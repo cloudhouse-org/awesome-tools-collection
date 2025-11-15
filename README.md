@@ -6,7 +6,7 @@
 
 系统自带工具，Win + V 查看复制历史，选中即可重新复制，还可以辅助输入 Emoji 与特殊符号
 
-![](D:\Repos\awesome-tools-collection\assets\clipboard.png)
+![](.\assets\clipboard.png)
 
 ### 微信输入法
 
@@ -18,7 +18,7 @@ Windows 自带搜索工具替代品。是最快速的文件搜索，资源占用
 
 Everything Toolbar 会将 Windows 系统下方 Dock 栏的搜索替换为 Everything，实现快速调用
 
-![](D:\Repos\awesome-tools-collection\assets\everything-toolbar.png)
+![](.\assets\everything-toolbar.png)
 
 使用场景：
 
@@ -38,7 +38,7 @@ Everything Toolbar 会将 Windows 系统下方 Dock 栏的搜索替换为 Everyt
 - Color Picker：Win + Shift + C 全局取色器（专业向）
   - 使用场景：UI、平面设计师
 - File Locksmith：解决文件被占用导致的无法转移等等问题
-  - ![](D:\Repos\awesome-tools-collection\assets\file-locksmith.png)
+  - ![](.\file-locksmith.png)
 
 ### Typora
 
@@ -65,7 +65,7 @@ Typora 是 Markdown 编辑器，快速实现简单排版，用于记电子笔记
 
 网页插件，双语对照翻译
 
-![image-20251115173010722](D:\Repos\awesome-tools-collection\assets\kiss.png)
+![](.\assets\kiss.png)
 
 - [kiss-translator](https://github.com/fishjar/kiss-translator)
 
